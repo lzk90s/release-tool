@@ -1,0 +1,2 @@
+# release-tool
+auto release
